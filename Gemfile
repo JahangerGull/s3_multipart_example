@@ -51,3 +51,5 @@ gem 's3_multipart', :git => "https://github.com/JahangerGull/s3_multipart.git", 
 gem 'pry'
 
 gem 'protected_attributes'
+
+gem "rails_12factor"
