@@ -1,0 +1,5 @@
+development:
+  access_key_id: "KEY"
+  secret_access_key: "SECRET"
+  bucket: "BUCKET"
+  revision: "0.0.10.4"
